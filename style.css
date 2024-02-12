@@ -20,3 +20,23 @@ body{
 .navbar{
     padding: 15px;
 }
+section{
+    margin-top: 85px;
+    max-width: 1520px;
+    
+}
+.HomeText{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: rgb(252, 252, 252);
+}
+.Homepage{
+    column-gap: 2rem;
+}
+.Viewbutton{
+    width: 150px;
+    height: 50px;
+    border-radius: 1rem;
+    border: none;
+}
