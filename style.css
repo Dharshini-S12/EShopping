@@ -43,6 +43,8 @@ section{
     height: 50px;
     border-radius: 1rem;
     border: none;
+    color: azure;
+    font-size: 14px;
 }
 .fullimg{
     width: 350px;
