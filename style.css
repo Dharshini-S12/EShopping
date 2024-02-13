@@ -25,18 +25,44 @@ section{
     max-width: 1520px;
     
 }
+.section1{
+    margin-top: 85px;
+    max-width: 1520px;
+    
+    
+}
 .HomeText{
     align-items: center;
     justify-content: center;
     display: flex;
     background-color: rgb(252, 252, 252);
 }
-.Homepage{
-    column-gap: 2rem;
-}
+
 .Viewbutton{
     width: 150px;
     height: 50px;
     border-radius: 1rem;
     border: none;
 }
+.fullimg{
+    width: 350px;
+    height: 300px;
+    cursor: pointer;
+}
+.offtext{
+    color: red;
+}
+.greybg{
+    background-color: rgb(241, 241, 241);
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.footer{
+    background-color: #000;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-size: 15px;
+    color: azure;
+}
+
+
